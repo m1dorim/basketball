@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    color: #ffff;
+    margin: 99px;
+}
+body {
+    background-color: #C6AAAA;
+    padding: 100px;
+}
+h3 {
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+#cards {
+    display: flex;
+    justify-content: space-around;
+}
+.carousel-text {
+    padding: 100px;
+}
+.cards1 {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    text-align: center;
+}
+.cards2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    text-align: center;
+}
+.cards3 {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    text-align: center;
+}
+.accordion {
+    margin: 99px;
+}
+.carousel-caption d-none d-md-block {
+    font-size: 100px;
+}
+.carousel slide {
+    margin: 30px;
+}
